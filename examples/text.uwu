@@ -1,7 +1,7 @@
 contwents iws wead("examples/data.txt")
 i iws 0
 
-OwO *notices i wess twan wength(contwents)*
+OwO *notices i wess dwan wength(contwents)*
     words iws spwit(contwents[i], " ")
     words[3] iws "UwU!"
     contwents[i] iws conwat(words," ")

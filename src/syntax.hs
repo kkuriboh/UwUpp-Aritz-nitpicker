@@ -11,12 +11,12 @@ wetuwn c
 
 
 UwU is this a While loop?
-OwO *notices 1 gweatew twan 0*
+OwO *notices 1 gweatew dwan 0*
      a iws 2 twimes 3 
 stawp
 
 UwU is this a if statement
-*notices 1 wess twan 10 *
+*notices 1 wess dwan 10 *
     a iws 10 diwide 2
 stawp
 

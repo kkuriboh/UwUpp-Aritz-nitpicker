@@ -51,7 +51,7 @@ a iws 1
 b iws 1
 c iws 0
 
-OwO *notices 100 gweatew twan b *
+OwO *notices 100 gweatew dwan b *
     c iws b
     b iws b pwus a
     a iws c
@@ -66,11 +66,11 @@ UwU is twis the numbwe of pwimes undwe 1000?
 wimit iws 1000
 siewe iws awway<wimit>
 i iws 2
-OwO *notices i wess twan wimit diwide 10*
+OwO *notices i wess dwan wimit diwide 10*
     *notices siewe[i] eqwall twoo 0*
         j iws i twimes i
         c iws 0
-        OwO *notices j pwus c wess twan wimit*
+        OwO *notices j pwus c wess dwan wimit*
             siewe[j pwus c] iws 1
             c iws c pwus i
         stawp
@@ -81,7 +81,7 @@ stawp
 
 i iws 2
 count iws 0
-OwO *notices i wess twan wimit*
+OwO *notices i wess dwan wimit*
     *notices siewe[i] eqwall twoo 0*
         nuzzels(i)
         count iws count pwus 1
@@ -97,7 +97,7 @@ nuzzels(count)
 
 ~~~~
 nyaa *fiwb(a)*
-    *notices a gweatew twan 1*
+    *notices a gweatew dwan 1*
         c iws fiwb(a minwus 1) pwus fiwb(a minwus 2)
     stawp
     *notices a eqwall twoo  1*
@@ -123,7 +123,7 @@ http iws "HTTP/1.0 200 UwU iws twis a websever???\r\n Server: UwU++\r\nContent-T
 
 UwU? is this dynawic contwent?
 nyaa *fiwb(a)*
-    *notices a gweatew twan 1*
+    *notices a gweatew dwan 1*
         c iws fiwb(a minwus 1) pwus fiwb(a minwus 2)
     stawp
     *notices a eqwall twoo  1*

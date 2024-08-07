@@ -114,8 +114,8 @@ pCond :: Parser Cond
 pCond =
    do expr1 <- pExpr
       comp <- choice 
-                [ Great <$ symbol "gweatew twan" 
-                , Less <$ symbol "wess twan"
+                [ Great <$ symbol "gweatew dwan" 
+                , Less <$ symbol "wess dwan"
                 , Equal <$ symbol "eqwall twoo"
                 ]
       expr2 <- pExpr
